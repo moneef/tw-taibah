@@ -1,14 +1,14 @@
 {
     "name": {
-        "ar": "\u0637\u064a\u0628\u0629",
-        "en": "Taibah"
+        "ar": "عناصر ثيم طيبة",
+        "en": "Taibah Theme Components"
     },
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     },
     "author_email": "moneef@outlook.com",
-    "support_url": "",
+    "support_url": null,
     "repository": "https://github.com/moneef/tw-taibah",
     "components": []
 }
